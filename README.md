@@ -58,6 +58,8 @@ I enjoy turning complex problems into clean, efficient, and user-friendly web ap
 
 ## 🔥 What I'm Working On
 - 🌐 **Personal Portfolio Website**
+- **DBMS-Project by Shell Scripting**
+
 
 ---
 
